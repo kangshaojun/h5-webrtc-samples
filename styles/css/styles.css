@@ -1,0 +1,53 @@
+/* html样式 */
+html {
+    /* 垂直方向滚动 */
+    overflow-y: scroll;
+  }
+  body {
+    font-weight: 300;
+    word-break: break-word;
+  }
+  h1 {
+    border-bottom: 1px solid #ccc;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+  }
+  h2 {
+    color: #444;
+    font-weight: 500;
+  }
+  h3 {
+    border-top: 1px solid #eee;
+    color: #666;
+    font-weight: 500;
+    margin: 10px 0 10px 0;
+    white-space: nowrap;
+  }
+  .container {
+    margin: 0 auto 0 auto;
+    max-width: 600px;
+    padding: 10px 0px 10px 0px;
+  }
+  .video {
+    background: #222;
+    margin: 0 0 20px 0;
+    width: 640px;
+    height: 480px;
+  }
+  .canvas {
+    background-color: #ccc;
+    width: 640px;
+    height: 480px;
+  }
+  .warning {
+    color: red;
+    font-weight: 400;
+  }
+  
+  
+  
+  
+  
+  
+  
